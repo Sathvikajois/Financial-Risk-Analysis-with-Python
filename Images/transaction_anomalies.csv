@@ -1,0 +1,6 @@
+TransactionID,CustomerID,AccountID,AccountType,TransactionType,Product,Firm,Region,Manager,TransactionDate,TransactionAmount,AccountBalance,RiskScore,CreditRating,TenureMonths
+13,CUST2805,ACC19178,Credit,Payment,Credit Card,Firm D,West,Manager 3,2024-02-17,138133.8216,58667.17647,0.386821652,747,126
+52,CUST4258,ACC35419,Loan,Transfer,Personal Loan,Firm B,Central,Manager 1,2023-11-07,-36173.69555,24563.76881,0.838910545,745,29
+92,CUST6526,ACC77533,Loan,Transfer,Mutual Fund,Firm D,West,Manager 3,2024-02-17,154662.0458,68845.57535,0.696873622,841,62
+131,CUST4769,ACC92104,Current,Deposit,Mutual Fund,Firm B,East,Manager 1,2024-01-17,144137.8803,45084.92601,0.283583571,364,231
+47,CUST7098,ACC23736,Loan,Payment,Home Loan,Firm E,West,Manager 3,2023-09-28,141210.8034,94186.76562,0.885863833,624,19
